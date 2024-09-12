@@ -1,0 +1,59 @@
+(streamlined, shrieking bolts):
+avg. price=5.2          |       cheapest price=5
+total items: 262
+
+(streamlined, eye to eye):
+avg. price=7.5          |       cheapest price=5
+total items: 332
+
+(shrieking bolts, eye to eye):
+avg. price=8.1          |       cheapest price=3
+total items: 126
+
+(follow-through, streamlined):
+avg. price=10.0         |       cheapest price=10
+total items: 129
+
+(shrieking bolts, repeater):
+avg. price=12.4         |       cheapest price=2
+total items: 315
+
+(follow-through, shrieking bolts):
+avg. price=14.5         |       cheapest price=2
+total items: 46
+
+(streamlined, repeater):
+avg. price=15.6         |       cheapest price=4
+total items: 1168
+
+(eye to eye, aerodynamics):
+avg. price=22.5         |       cheapest price=10
+total items: 80
+
+(follow-through, eye to eye):
+avg. price=30.9         |       cheapest price=25
+total items: 49
+
+(follow-through, aerodynamics):
+avg. price=34.9         |       cheapest price=20
+total items: 32
+
+(repeater, aerodynamics):
+avg. price=43.0         |       cheapest price=35
+total items: 454
+
+(follow-through, repeater):
+avg. price=47.7         |       cheapest price=37
+total items: 369
+
+(eye to eye, repeater):
+avg. price=53.5         |       cheapest price=15
+total items: 1224
+
+(streamlined, aerodynamics):
+avg. price=91.0         |       cheapest price=20
+total items: 139
+
+(shrieking bolts, aerodynamics):
+avg. price=92.4         |       cheapest price=4
+total items: 73

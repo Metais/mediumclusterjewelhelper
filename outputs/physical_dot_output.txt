@@ -1,0 +1,543 @@
+(disorienting wounds, exposure therapy):
+avg. price=5.9          |       cheapest price=2
+total items: 52
+
+(disorienting wounds, brewed for potency):
+avg. price=6.9          |       cheapest price=1
+total items: 58
+
+(wound aggravation, brewed for potency):
+avg. price=7.5          |       cheapest price=3
+total items: 55
+
+(disorienting wounds, circling oblivion):
+avg. price=7.6          |       cheapest price=4
+total items: 61
+
+(exposure therapy, brewed for potency):
+avg. price=7.8          |       cheapest price=4
+total items: 49
+
+(disorienting wounds, vile reinvigoration):
+avg. price=8.0          |       cheapest price=2
+total items: 33
+
+(vivid hues, circling oblivion):
+avg. price=8.4          |       cheapest price=4
+total items: 38
+
+(exposure therapy, vile reinvigoration):
+avg. price=8.5          |       cheapest price=5
+total items: 38
+
+(exposure therapy, circling oblivion):
+avg. price=9.0          |       cheapest price=5
+total items: 50
+
+(wound aggravation, compound injury):
+avg. price=9.1          |       cheapest price=3
+total items: 38
+
+(wound aggravation, disorienting wounds):
+avg. price=9.2          |       cheapest price=4
+total items: 67
+
+(wound aggravation, exposure therapy):
+avg. price=9.3          |       cheapest price=5
+total items: 64
+
+(disorienting wounds, compound injury):
+avg. price=9.3          |       cheapest price=4
+total items: 38
+
+(rend, phlebotomist):
+avg. price=9.6          |       cheapest price=5
+total items: 27
+
+(wound aggravation, vile reinvigoration):
+avg. price=9.7          |       cheapest price=5
+total items: 34
+
+(brewed for potency, student of decay):
+avg. price=10.1         |       cheapest price=3
+total items: 25
+
+(phlebotomist, circling oblivion):
+avg. price=10.3         |       cheapest price=5
+total items: 31
+
+(vile reinvigoration, circling oblivion):
+avg. price=10.3         |       cheapest price=5
+total items: 35
+
+(compound injury, brewed for potency):
+avg. price=10.4         |       cheapest price=2
+total items: 30
+
+(phlebotomist, exposure therapy):
+avg. price=10.4         |       cheapest price=3
+total items: 24
+
+(vivid hues, exposure therapy):
+avg. price=10.5         |       cheapest price=5
+total items: 28
+
+(circling oblivion, brewed for potency):
+avg. price=10.5         |       cheapest price=5
+total items: 51
+
+(haemorrhage, circling oblivion):
+avg. price=10.7         |       cheapest price=5
+total items: 28
+
+(circling oblivion, student of decay):
+avg. price=10.7         |       cheapest price=3
+total items: 28
+
+(vivid hues, disorienting wounds):
+avg. price=11.0         |       cheapest price=9
+total items: 36
+
+(disorienting wounds, haemorrhage):
+avg. price=11.0         |       cheapest price=5
+total items: 32
+
+(compound injury, circling oblivion):
+avg. price=11.3         |       cheapest price=5
+total items: 33
+
+(wound aggravation, circling oblivion):
+avg. price=11.5         |       cheapest price=1
+total items: 55
+
+(disorienting wounds, phlebotomist):
+avg. price=11.6         |       cheapest price=7
+total items: 21
+
+(rend, brewed for potency):
+avg. price=11.7         |       cheapest price=5
+total items: 40
+
+(rend, exposure therapy):
+avg. price=12.5         |       cheapest price=3
+total items: 29
+
+(vivid hues, brewed for potency):
+avg. price=13.1         |       cheapest price=3
+total items: 38
+
+(rend, disorienting wounds):
+avg. price=13.1         |       cheapest price=7
+total items: 35
+
+(phlebotomist, student of decay):
+avg. price=13.8         |       cheapest price=4
+total items: 16
+
+(wound aggravation, student of decay):
+avg. price=14.1         |       cheapest price=5
+total items: 40
+
+(haemorrhage, brewed for potency):
+avg. price=14.3         |       cheapest price=5
+total items: 19
+
+(vivid hues, phlebotomist):
+avg. price=14.4         |       cheapest price=5
+total items: 20
+
+(wound aggravation, phlebotomist):
+avg. price=14.5         |       cheapest price=8
+total items: 29
+
+(vivid hues, rend):
+avg. price=14.5         |       cheapest price=10
+total items: 36
+
+(exposure therapy, student of decay):
+avg. price=14.5         |       cheapest price=5
+total items: 20
+
+(vile reinvigoration, brewed for potency):
+avg. price=14.7         |       cheapest price=5
+total items: 22
+
+(wound aggravation, haemorrhage):
+avg. price=14.9         |       cheapest price=5
+total items: 36
+
+(disorienting wounds, student of decay):
+avg. price=14.9         |       cheapest price=10
+total items: 30
+
+(rend, compound injury):
+avg. price=15.0         |       cheapest price=6
+total items: 26
+
+(compound injury, student of decay):
+avg. price=15.1         |       cheapest price=5
+total items: 20
+
+(haemorrhage, student of decay):
+avg. price=15.6         |       cheapest price=3
+total items: 16
+
+(wound aggravation, vivid hues):
+avg. price=15.7         |       cheapest price=8
+total items: 33
+
+(vile reinvigoration, student of decay):
+avg. price=15.9         |       cheapest price=5
+total items: 20
+
+(haemorrhage, vile reinvigoration):
+avg. price=16.3         |       cheapest price=5
+total items: 14
+
+(vivid hues, compound injury):
+avg. price=16.6         |       cheapest price=3
+total items: 23
+
+(steady torment, exposure therapy):
+avg. price=17.3         |       cheapest price=8
+total items: 16
+
+(rend, haemorrhage):
+avg. price=17.4         |       cheapest price=10
+total items: 18
+
+(rend, vile reinvigoration):
+avg. price=18.6         |       cheapest price=8
+total items: 17
+
+(compound injury, exposure therapy):
+avg. price=18.7         |       cheapest price=7
+total items: 23
+
+(compound injury, phlebotomist):
+avg. price=19.0         |       cheapest price=10
+total items: 17
+
+(wasting affliction, brewed for potency):
+avg. price=19.0         |       cheapest price=5
+total items: 23
+
+(disorienting wounds, steady torment):
+avg. price=19.5         |       cheapest price=10
+total items: 18
+
+(brush with death, brewed for potency):
+avg. price=20.3         |       cheapest price=3
+total items: 22
+
+(vivid hues, student of decay):
+avg. price=20.8         |       cheapest price=5
+total items: 21
+
+(disorienting wounds, blood artist):
+avg. price=21.0         |       cheapest price=10
+total items: 12
+
+(flow of life, exposure therapy):
+avg. price=22.4         |       cheapest price=9
+total items: 18
+
+(exposure therapy, brush with death):
+avg. price=22.5         |       cheapest price=5
+total items: 20
+
+(rend, circling oblivion):
+avg. price=22.7         |       cheapest price=5
+total items: 40
+
+(vivid hues, blood artist):
+avg. price=23.0         |       cheapest price=5
+total items: 12
+
+(haemorrhage, exposure therapy):
+avg. price=24.0         |       cheapest price=5
+total items: 22
+
+(blood artist, circling oblivion):
+avg. price=24.2         |       cheapest price=15
+total items: 16
+
+(phlebotomist, brewed for potency):
+avg. price=24.7         |       cheapest price=7
+total items: 17
+
+(rend, student of decay):
+avg. price=24.8         |       cheapest price=8
+total items: 19
+
+(vivid hues, vile reinvigoration):
+avg. price=25.2         |       cheapest price=5
+total items: 15
+
+(disorienting wounds, wasting affliction):
+avg. price=25.5         |       cheapest price=20
+total items: 19
+
+(blood artist, exposure therapy):
+avg. price=25.5         |       cheapest price=10
+total items: 17
+
+(wound aggravation, blood artist):
+avg. price=25.6         |       cheapest price=10
+total items: 20
+
+(blood artist, student of decay):
+avg. price=25.9         |       cheapest price=9
+total items: 14
+
+(wasting affliction, haemorrhage):
+avg. price=26.5         |       cheapest price=15
+total items: 6
+
+(compound injury, vile reinvigoration):
+avg. price=29.9         |       cheapest price=4
+total items: 14
+
+(steady torment, vile reinvigoration):
+avg. price=29.9         |       cheapest price=9
+total items: 13
+
+(vivid hues, brush with death):
+avg. price=30.9         |       cheapest price=5
+total items: 14
+
+(blood artist, brewed for potency):
+avg. price=34.0         |       cheapest price=10
+total items: 11
+
+(phlebotomist, haemorrhage):
+avg. price=34.8         |       cheapest price=3
+total items: 13
+
+(haemorrhage, brush with death):
+avg. price=39.0         |       cheapest price=39
+total items: 1
+
+(vivid hues, haemorrhage):
+avg. price=39.1         |       cheapest price=10
+total items: 17
+
+(wound aggravation, brush with death):
+avg. price=39.9         |       cheapest price=9
+total items: 17
+
+(disorienting wounds, flow of life):
+avg. price=40.6         |       cheapest price=10
+total items: 16
+
+(blood artist, haemorrhage):
+avg. price=42.0         |       cheapest price=8
+total items: 4
+
+(blood artist, phlebotomist):
+avg. price=42.9         |       cheapest price=15
+total items: 7
+
+(brush with death, circling oblivion):
+avg. price=45.1         |       cheapest price=10
+total items: 9
+
+(phlebotomist, flow of life):
+avg. price=45.7         |       cheapest price=20
+total items: 7
+
+(compound injury, blood artist):
+avg. price=45.8         |       cheapest price=5
+total items: 9
+
+(phlebotomist, vile reinvigoration):
+avg. price=46.6         |       cheapest price=20
+total items: 8
+
+(steady torment, circling oblivion):
+avg. price=47.0         |       cheapest price=5
+total items: 13
+
+(wound aggravation, steady torment):
+avg. price=47.9         |       cheapest price=10
+total items: 12
+
+(steady torment, wasting affliction):
+avg. price=48.8         |       cheapest price=25
+total items: 5
+
+(wasting affliction, vile reinvigoration):
+avg. price=50.7         |       cheapest price=10
+total items: 10
+
+(disorienting wounds, brush with death):
+avg. price=56.1         |       cheapest price=3
+total items: 10
+
+(phlebotomist, steady torment):
+avg. price=57.9         |       cheapest price=12
+total items: 7
+
+(wasting affliction, exposure therapy):
+avg. price=57.9         |       cheapest price=15
+total items: 11
+
+(phlebotomist, brush with death):
+avg. price=58.5         |       cheapest price=10
+total items: 10
+
+(steady torment, flow of life):
+avg. price=60.0         |       cheapest price=60
+total items: 1
+
+(steady torment, student of decay):
+avg. price=60.0         |       cheapest price=10
+total items: 8
+
+(wound aggravation, rend):
+avg. price=61.0         |       cheapest price=1
+total items: 36
+
+(compound injury, haemorrhage):
+avg. price=62.0         |       cheapest price=10
+total items: 17
+
+(compound injury, flow of life):
+avg. price=66.7         |       cheapest price=22
+total items: 7
+
+(brush with death, vile reinvigoration):
+avg. price=68.0         |       cheapest price=10
+total items: 5
+
+(blood artist, flow of life):
+avg. price=70.0         |       cheapest price=40
+total items: 2
+
+(haemorrhage, flow of life):
+avg. price=71.4         |       cheapest price=10
+total items: 7
+
+(compound injury, brush with death):
+avg. price=72.0         |       cheapest price=15
+total items: 10
+
+(vivid hues, steady torment):
+avg. price=76.5         |       cheapest price=20
+total items: 10
+
+(blood artist, vile reinvigoration):
+avg. price=79.0         |       cheapest price=10
+total items: 12
+
+(rend, blood artist):
+avg. price=79.4         |       cheapest price=25
+total items: 11
+
+(vivid hues, flow of life):
+avg. price=81.9         |       cheapest price=50
+total items: 13
+
+(brush with death, student of decay):
+avg. price=84.7         |       cheapest price=20
+total items: 9
+
+(compound injury, steady torment):
+avg. price=90.2         |       cheapest price=11
+total items: 5
+
+(steady torment, brewed for potency):
+avg. price=90.3         |       cheapest price=15
+total items: 6
+
+(rend, brush with death):
+avg. price=92.8         |       cheapest price=20
+total items: 9
+
+(steady torment, brush with death):
+avg. price=100.0        |       cheapest price=50
+total items: 5
+
+(flow of life, brewed for potency):
+avg. price=118.5        |       cheapest price=70
+total items: 12
+
+(wasting affliction, circling oblivion):
+avg. price=118.6        |       cheapest price=20
+total items: 7
+
+(phlebotomist, wasting affliction):
+avg. price=118.9        |       cheapest price=10
+total items: 8
+
+(wound aggravation, wasting affliction):
+avg. price=119.4        |       cheapest price=25
+total items: 15
+
+(rend, wasting affliction):
+avg. price=121.0        |       cheapest price=10
+total items: 12
+
+(blood artist, wasting affliction):
+avg. price=124.0        |       cheapest price=20
+total items: 5
+
+(flow of life, vile reinvigoration):
+avg. price=124.2        |       cheapest price=20
+total items: 8
+
+(rend, flow of life):
+avg. price=124.3        |       cheapest price=40
+total items: 7
+
+(rend, steady torment):
+avg. price=133.3        |       cheapest price=20
+total items: 9
+
+(compound injury, wasting affliction):
+avg. price=136.7        |       cheapest price=50
+total items: 3
+
+(wasting affliction, student of decay):
+avg. price=147.8        |       cheapest price=55
+total items: 6
+
+(steady torment, haemorrhage):
+avg. price=161.7        |       cheapest price=30
+total items: 3
+
+(vivid hues, wasting affliction):
+avg. price=245.8        |       cheapest price=20
+total items: 6
+
+(flow of life, circling oblivion):
+avg. price=357.5        |       cheapest price=130
+total items: 6
+
+(flow of life, student of decay):
+avg. price=606.7        |       cheapest price=260
+total items: 3
+
+(flow of life, brush with death):
+avg. price=650.0        |       cheapest price=650
+total items: 1
+
+(blood artist, brush with death):
+avg. price=2065.0       |       cheapest price=100
+total items: 4
+
+(wound aggravation, flow of life):
+avg. price=5220.0       |       cheapest price=80
+total items: 4
+
+(blood artist, steady torment):
+avg. price=0            |       cheapest price=0
+total items: 0
+
+(wasting affliction, flow of life):
+avg. price=0            |       cheapest price=0
+total items: 0
+
+(wasting affliction, brush with death):
+avg. price=0            |       cheapest price=0
+total items: 0

@@ -1,0 +1,219 @@
+(basics of pain, provocateur):
+avg. price=4.6          |       cheapest price=1
+total items: 86
+
+(magnifier, quick getaway):
+avg. price=4.7          |       cheapest price=2
+total items: 242
+
+(magnifier, basics of pain):
+avg. price=4.8          |       cheapest price=4
+total items: 182
+
+(precise retaliation, magnifier):
+avg. price=4.9          |       cheapest price=4
+total items: 81
+
+(quick getaway, provocateur):
+avg. price=4.9          |       cheapest price=1
+total items: 107
+
+(magnifier, provocateur):
+avg. price=5.3          |       cheapest price=2
+total items: 96
+
+(magnifier, haemorrhage):
+avg. price=5.4          |       cheapest price=2
+total items: 79
+
+(quick getaway, haemorrhage):
+avg. price=5.5          |       cheapest price=4
+total items: 111
+
+(magnifier, savage response):
+avg. price=5.6          |       cheapest price=3
+total items: 69
+
+(basics of pain, haemorrhage):
+avg. price=5.8          |       cheapest price=2
+total items: 81
+
+(savage response, basics of pain):
+avg. price=6.3          |       cheapest price=4
+total items: 67
+
+(magnifier, eye of the storm):
+avg. price=6.7          |       cheapest price=5
+total items: 79
+
+(savage response, provocateur):
+avg. price=6.7          |       cheapest price=2
+total items: 44
+
+(precise retaliation, quick getaway):
+avg. price=7.5          |       cheapest price=1
+total items: 115
+
+(savage response, quick getaway):
+avg. price=7.7          |       cheapest price=2
+total items: 108
+
+(savage response, eye of the storm):
+avg. price=8.1          |       cheapest price=1
+total items: 41
+
+(eye of the storm, haemorrhage):
+avg. price=8.2          |       cheapest price=5
+total items: 52
+
+(precise retaliation, basics of pain):
+avg. price=8.5          |       cheapest price=5
+total items: 96
+
+(precise retaliation, savage response):
+avg. price=8.6          |       cheapest price=5
+total items: 57
+
+(precise retaliation, provocateur):
+avg. price=8.6          |       cheapest price=5
+total items: 50
+
+(eye of the storm, quick getaway):
+avg. price=8.7          |       cheapest price=4
+total items: 120
+
+(eye of the storm, provocateur):
+avg. price=8.8          |       cheapest price=5
+total items: 46
+
+(provocateur, haemorrhage):
+avg. price=8.9          |       cheapest price=5
+total items: 42
+
+(eye of the storm, basics of pain):
+avg. price=9.0          |       cheapest price=5
+total items: 89
+
+(basics of pain, quick getaway):
+avg. price=9.3          |       cheapest price=2
+total items: 381
+
+(skullbreaker, magnifier):
+avg. price=9.4          |       cheapest price=4
+total items: 39
+
+(skullbreaker, basics of pain):
+avg. price=9.4          |       cheapest price=5
+total items: 43
+
+(savage response, haemorrhage):
+avg. price=9.5          |       cheapest price=5
+total items: 32
+
+(precise retaliation, eye of the storm):
+avg. price=9.8          |       cheapest price=5
+total items: 42
+
+(skullbreaker, quick getaway):
+avg. price=10.7         |       cheapest price=8
+total items: 31
+
+(skullbreaker, eye of the storm):
+avg. price=11.4         |       cheapest price=5
+total items: 21
+
+(precise retaliation, haemorrhage):
+avg. price=11.5         |       cheapest price=5
+total items: 34
+
+(pressure points, savage response):
+avg. price=12.9         |       cheapest price=10
+total items: 58
+
+(pressure points, provocateur):
+avg. price=14.2         |       cheapest price=9
+total items: 49
+
+(overwhelming malice, provocateur):
+avg. price=14.4         |       cheapest price=10
+total items: 22
+
+(overwhelming malice, magnifier):
+avg. price=14.5         |       cheapest price=7
+total items: 26
+
+(pressure points, haemorrhage):
+avg. price=15.6         |       cheapest price=10
+total items: 53
+
+(skullbreaker, savage response):
+avg. price=16.2         |       cheapest price=3
+total items: 17
+
+(skullbreaker, provocateur):
+avg. price=17.5         |       cheapest price=5
+total items: 20
+
+(precise retaliation, skullbreaker):
+avg. price=18.9         |       cheapest price=1
+total items: 21
+
+(overwhelming malice, quick getaway):
+avg. price=19.4         |       cheapest price=10
+total items: 61
+
+(overwhelming malice, eye of the storm):
+avg. price=20.6         |       cheapest price=8
+total items: 23
+
+(skullbreaker, haemorrhage):
+avg. price=22.3         |       cheapest price=5
+total items: 14
+
+(overwhelming malice, haemorrhage):
+avg. price=23.0         |       cheapest price=20
+total items: 24
+
+(pressure points, eye of the storm):
+avg. price=24.9         |       cheapest price=20
+total items: 230
+
+(pressure points, magnifier):
+avg. price=30.0         |       cheapest price=10
+total items: 162
+
+(overwhelming malice, savage response):
+avg. price=44.5         |       cheapest price=10
+total items: 16
+
+(precise retaliation, overwhelming malice):
+avg. price=59.5         |       cheapest price=10
+total items: 13
+
+(pressure points, quick getaway):
+avg. price=67.6         |       cheapest price=20
+total items: 947
+
+(overwhelming malice, basics of pain):
+avg. price=78.5         |       cheapest price=50
+total items: 36
+
+(skullbreaker, overwhelming malice):
+avg. price=98.1         |       cheapest price=25
+total items: 9
+
+(pressure points, overwhelming malice):
+avg. price=102.8        |       cheapest price=8
+total items: 32
+
+(skullbreaker, pressure points):
+avg. price=103.0        |       cheapest price=70
+total items: 87
+
+(precise retaliation, pressure points):
+avg. price=109.9        |       cheapest price=39
+total items: 169
+
+(pressure points, basics of pain):
+avg. price=123.8        |       cheapest price=80
+total items: 303

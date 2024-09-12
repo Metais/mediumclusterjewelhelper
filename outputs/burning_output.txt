@@ -1,0 +1,611 @@
+(smoking remains, brewed for potency):
+avg. price=8.3          |       cheapest price=4
+total items: 53
+
+(exposure therapy, circling oblivion):
+avg. price=8.3          |       cheapest price=5
+total items: 83
+
+(smoking remains, exposure therapy):
+avg. price=8.6          |       cheapest price=1
+total items: 52
+
+(eye of the storm, exposure therapy):
+avg. price=8.8          |       cheapest price=2
+total items: 54
+
+(exposure therapy, brewed for potency):
+avg. price=8.8          |       cheapest price=4
+total items: 101
+
+(circling oblivion, brewed for potency):
+avg. price=9.1          |       cheapest price=5
+total items: 101
+
+(cremator, brewed for potency):
+avg. price=9.3          |       cheapest price=5
+total items: 72
+
+(haemorrhage, exposure therapy):
+avg. price=9.3          |       cheapest price=5
+total items: 56
+
+(eye of the storm, brewed for potency):
+avg. price=9.4          |       cheapest price=5
+total items: 61
+
+(eye of the storm, circling oblivion):
+avg. price=9.6          |       cheapest price=5
+total items: 54
+
+(blowback, exposure therapy):
+avg. price=9.7          |       cheapest price=8
+total items: 59
+
+(exposure therapy, vile reinvigoration):
+avg. price=9.7          |       cheapest price=8
+total items: 48
+
+(vile reinvigoration, brewed for potency):
+avg. price=9.8          |       cheapest price=5
+total items: 57
+
+(vile reinvigoration, circling oblivion):
+avg. price=10.1         |       cheapest price=10
+total items: 46
+
+(blowback, brewed for potency):
+avg. price=10.5         |       cheapest price=5
+total items: 68
+
+(haemorrhage, circling oblivion):
+avg. price=10.8         |       cheapest price=3
+total items: 38
+
+(brewed for potency, student of decay):
+avg. price=10.8         |       cheapest price=5
+total items: 80
+
+(haemorrhage, brewed for potency):
+avg. price=10.9         |       cheapest price=5
+total items: 41
+
+(burning bright, exposure therapy):
+avg. price=11.0         |       cheapest price=5
+total items: 77
+
+(burning bright, brewed for potency):
+avg. price=11.0         |       cheapest price=10
+total items: 81
+
+(cremator, exposure therapy):
+avg. price=11.1         |       cheapest price=5
+total items: 58
+
+(eye of the storm, student of decay):
+avg. price=11.2         |       cheapest price=5
+total items: 27
+
+(cremator, blowback):
+avg. price=11.5         |       cheapest price=5
+total items: 61
+
+(eye of the storm, smoking remains):
+avg. price=11.7         |       cheapest price=5
+total items: 33
+
+(smoking remains, haemorrhage):
+avg. price=11.9         |       cheapest price=5
+total items: 33
+
+(blowback, circling oblivion):
+avg. price=11.9         |       cheapest price=5
+total items: 86
+
+(smoking remains, circling oblivion):
+avg. price=12.0         |       cheapest price=8
+total items: 67
+
+(exposure therapy, student of decay):
+avg. price=12.3         |       cheapest price=4
+total items: 61
+
+(cremator, circling oblivion):
+avg. price=12.4         |       cheapest price=10
+total items: 65
+
+(eye of the storm, cremator):
+avg. price=13.2         |       cheapest price=10
+total items: 44
+
+(burning bright, vile reinvigoration):
+avg. price=13.9         |       cheapest price=5
+total items: 59
+
+(smoking remains, blowback):
+avg. price=14.3         |       cheapest price=8
+total items: 56
+
+(burning bright, circling oblivion):
+avg. price=14.3         |       cheapest price=3
+total items: 101
+
+(smoking remains, vile reinvigoration):
+avg. price=14.4         |       cheapest price=9
+total items: 45
+
+(blowback, student of decay):
+avg. price=14.4         |       cheapest price=10
+total items: 66
+
+(cooked alive, brewed for potency):
+avg. price=14.8         |       cheapest price=10
+total items: 43
+
+(circling oblivion, student of decay):
+avg. price=15.0         |       cheapest price=10
+total items: 71
+
+(eye of the storm, haemorrhage):
+avg. price=15.1         |       cheapest price=9
+total items: 29
+
+(eye of the storm, burning bright):
+avg. price=15.2         |       cheapest price=7
+total items: 44
+
+(cooked alive, exposure therapy):
+avg. price=15.2         |       cheapest price=7
+total items: 20
+
+(eye of the storm, vile reinvigoration):
+avg. price=15.3         |       cheapest price=10
+total items: 32
+
+(blowback, vile reinvigoration):
+avg. price=15.3         |       cheapest price=5
+total items: 32
+
+(cremator, student of decay):
+avg. price=16.0         |       cheapest price=10
+total items: 42
+
+(cremator, vile reinvigoration):
+avg. price=16.1         |       cheapest price=8
+total items: 34
+
+(smoking remains, student of decay):
+avg. price=16.4         |       cheapest price=10
+total items: 44
+
+(wasting affliction, brewed for potency):
+avg. price=16.4         |       cheapest price=10
+total items: 21
+
+(haemorrhage, vile reinvigoration):
+avg. price=16.4         |       cheapest price=10
+total items: 26
+
+(cooked alive, circling oblivion):
+avg. price=16.5         |       cheapest price=10
+total items: 45
+
+(haemorrhage, student of decay):
+avg. price=17.0         |       cheapest price=10
+total items: 23
+
+(smoking remains, brush with death):
+avg. price=17.2         |       cheapest price=8
+total items: 24
+
+(cremator, burning bright):
+avg. price=17.3         |       cheapest price=10
+total items: 65
+
+(exposure therapy, brush with death):
+avg. price=17.3         |       cheapest price=10
+total items: 40
+
+(blowback, haemorrhage):
+avg. price=17.4         |       cheapest price=10
+total items: 25
+
+(eye of the storm, blowback):
+avg. price=17.5         |       cheapest price=10
+total items: 33
+
+(smoking remains, cremator):
+avg. price=17.7         |       cheapest price=5
+total items: 49
+
+(wasting affliction, exposure therapy):
+avg. price=18.5         |       cheapest price=10
+total items: 28
+
+(cooked alive, haemorrhage):
+avg. price=19.0         |       cheapest price=10
+total items: 18
+
+(wrapped in flame, brewed for potency):
+avg. price=19.0         |       cheapest price=10
+total items: 55
+
+(smoking remains, burning bright):
+avg. price=19.2         |       cheapest price=10
+total items: 71
+
+(burning bright, student of decay):
+avg. price=19.3         |       cheapest price=10
+total items: 102
+
+(brush with death, brewed for potency):
+avg. price=19.4         |       cheapest price=5
+total items: 39
+
+(vile reinvigoration, student of decay):
+avg. price=19.4         |       cheapest price=10
+total items: 32
+
+(burning bright, haemorrhage):
+avg. price=20.5         |       cheapest price=15
+total items: 28
+
+(eye of the storm, cooked alive):
+avg. price=21.5         |       cheapest price=10
+total items: 11
+
+(wrapped in flame, exposure therapy):
+avg. price=21.5         |       cheapest price=10
+total items: 33
+
+(haemorrhage, brush with death):
+avg. price=21.6         |       cheapest price=10
+total items: 18
+
+(brush with death, vile reinvigoration):
+avg. price=21.7         |       cheapest price=10
+total items: 25
+
+(cremator, haemorrhage):
+avg. price=21.8         |       cheapest price=10
+total items: 23
+
+(cooked alive, vile reinvigoration):
+avg. price=22.0         |       cheapest price=5
+total items: 18
+
+(fan the flames, exposure therapy):
+avg. price=23.4         |       cheapest price=19
+total items: 63
+
+(cremator, cooked alive):
+avg. price=23.8         |       cheapest price=8
+total items: 19
+
+(master of fire, exposure therapy):
+avg. price=23.9         |       cheapest price=15
+total items: 27
+
+(blowback, burning bright):
+avg. price=25.1         |       cheapest price=20
+total items: 96
+
+(eye of the storm, wrapped in flame):
+avg. price=25.3         |       cheapest price=10
+total items: 22
+
+(cooked alive, student of decay):
+avg. price=26.0         |       cheapest price=10
+total items: 19
+
+(burning bright, brush with death):
+avg. price=26.5         |       cheapest price=10
+total items: 38
+
+(brush with death, circling oblivion):
+avg. price=26.5         |       cheapest price=5
+total items: 35
+
+(brush with death, student of decay):
+avg. price=27.2         |       cheapest price=10
+total items: 18
+
+(wrapped in flame, vile reinvigoration):
+avg. price=27.9         |       cheapest price=20
+total items: 22
+
+(blowback, brush with death):
+avg. price=28.0         |       cheapest price=25
+total items: 35
+
+(wasting affliction, circling oblivion):
+avg. price=28.0         |       cheapest price=15
+total items: 41
+
+(cremator, wrapped in flame):
+avg. price=28.2         |       cheapest price=20
+total items: 40
+
+(eye of the storm, brush with death):
+avg. price=28.7         |       cheapest price=15
+total items: 22
+
+(fan the flames, haemorrhage):
+avg. price=28.9         |       cheapest price=20
+total items: 17
+
+(fan the flames, brewed for potency):
+avg. price=29.3         |       cheapest price=20
+total items: 75
+
+(cremator, fan the flames):
+avg. price=29.5         |       cheapest price=25
+total items: 52
+
+(smoking remains, cooked alive):
+avg. price=30.0         |       cheapest price=20
+total items: 26
+
+(flow of life, exposure therapy):
+avg. price=31.0         |       cheapest price=20
+total items: 74
+
+(wrapped in flame, circling oblivion):
+avg. price=31.2         |       cheapest price=12
+total items: 42
+
+(wasting affliction, student of decay):
+avg. price=31.7         |       cheapest price=25
+total items: 28
+
+(master of fire, brewed for potency):
+avg. price=31.9         |       cheapest price=14
+total items: 19
+
+(fan the flames, circling oblivion):
+avg. price=33.4         |       cheapest price=20
+total items: 99
+
+(smoking remains, fan the flames):
+avg. price=34.1         |       cheapest price=18
+total items: 56
+
+(burning bright, wasting affliction):
+avg. price=34.5         |       cheapest price=20
+total items: 40
+
+(wasting affliction, vile reinvigoration):
+avg. price=34.8         |       cheapest price=18
+total items: 17
+
+(eye of the storm, fan the flames):
+avg. price=36.3         |       cheapest price=25
+total items: 26
+
+(master of fire, haemorrhage):
+avg. price=36.8         |       cheapest price=10
+total items: 15
+
+(cremator, flow of life):
+avg. price=36.9         |       cheapest price=25
+total items: 56
+
+(blowback, fan the flames):
+avg. price=38.8         |       cheapest price=18
+total items: 55
+
+(eye of the storm, flow of life):
+avg. price=39.7         |       cheapest price=27
+total items: 26
+
+(fan the flames, vile reinvigoration):
+avg. price=40.4         |       cheapest price=20
+total items: 32
+
+(master of fire, circling oblivion):
+avg. price=40.5         |       cheapest price=20
+total items: 27
+
+(blowback, flow of life):
+avg. price=41.5         |       cheapest price=30
+total items: 53
+
+(master of fire, cremator):
+avg. price=43.0         |       cheapest price=10
+total items: 14
+
+(flow of life, vile reinvigoration):
+avg. price=43.5         |       cheapest price=40
+total items: 46
+
+(eye of the storm, wasting affliction):
+avg. price=44.8         |       cheapest price=13
+total items: 12
+
+(smoking remains, wasting affliction):
+avg. price=44.9         |       cheapest price=30
+total items: 47
+
+(cooked alive, brush with death):
+avg. price=47.4         |       cheapest price=10
+total items: 13
+
+(master of fire, student of decay):
+avg. price=47.5         |       cheapest price=20
+total items: 15
+
+(master of fire, smoking remains):
+avg. price=50.0         |       cheapest price=35
+total items: 19
+
+(wrapped in flame, student of decay):
+avg. price=50.5         |       cheapest price=35
+total items: 25
+
+(wasting affliction, haemorrhage):
+avg. price=50.6         |       cheapest price=10
+total items: 11
+
+(haemorrhage, flow of life):
+avg. price=51.0         |       cheapest price=20
+total items: 15
+
+(smoking remains, wrapped in flame):
+avg. price=52.5         |       cheapest price=30
+total items: 53
+
+(wrapped in flame, wasting affliction):
+avg. price=54.0         |       cheapest price=40
+total items: 20
+
+(flow of life, circling oblivion):
+avg. price=54.0         |       cheapest price=50
+total items: 84
+
+(wrapped in flame, haemorrhage):
+avg. price=59.4         |       cheapest price=15
+total items: 19
+
+(cremator, wasting affliction):
+avg. price=62.9         |       cheapest price=15
+total items: 15
+
+(fan the flames, burning bright):
+avg. price=65.0         |       cheapest price=50
+total items: 78
+
+(cooked alive, burning bright):
+avg. price=65.5         |       cheapest price=25
+total items: 21
+
+(master of fire, blowback):
+avg. price=66.2         |       cheapest price=20
+total items: 22
+
+(cremator, brush with death):
+avg. price=66.5         |       cheapest price=5
+total items: 14
+
+(smoking remains, flow of life):
+avg. price=67.5         |       cheapest price=40
+total items: 42
+
+(cooked alive, wasting affliction):
+avg. price=69.0         |       cheapest price=45
+total items: 28
+
+(blowback, cooked alive):
+avg. price=76.0         |       cheapest price=55
+total items: 40
+
+(master of fire, burning bright):
+avg. price=79.5         |       cheapest price=45
+total items: 27
+
+(fan the flames, student of decay):
+avg. price=91.0         |       cheapest price=50
+total items: 51
+
+(wrapped in flame, brush with death):
+avg. price=97.1         |       cheapest price=80
+total items: 70
+
+(fan the flames, wrapped in flame):
+avg. price=110.0        |       cheapest price=50
+total items: 62
+
+(wasting affliction, brush with death):
+avg. price=112.0        |       cheapest price=35
+total items: 18
+
+(eye of the storm, master of fire):
+avg. price=112.2        |       cheapest price=10
+total items: 9
+
+(cooked alive, wrapped in flame):
+avg. price=118.7        |       cheapest price=70
+total items: 25
+
+(master of fire, wrapped in flame):
+avg. price=123.9        |       cheapest price=99
+total items: 19
+
+(master of fire, vile reinvigoration):
+avg. price=125.0        |       cheapest price=20
+total items: 8
+
+(fan the flames, flow of life):
+avg. price=164.0        |       cheapest price=80
+total items: 54
+
+(burning bright, wrapped in flame):
+avg. price=164.0        |       cheapest price=50
+total items: 80
+
+(cooked alive, flow of life):
+avg. price=164.5        |       cheapest price=65
+total items: 23
+
+(master of fire, wasting affliction):
+avg. price=167.9        |       cheapest price=50
+total items: 11
+
+(blowback, wasting affliction):
+avg. price=175.0        |       cheapest price=100
+total items: 33
+
+(flow of life, student of decay):
+avg. price=175.0        |       cheapest price=100
+total items: 72
+
+(fan the flames, brush with death):
+avg. price=178.0        |       cheapest price=50
+total items: 23
+
+(wasting affliction, flow of life):
+avg. price=178.0        |       cheapest price=80
+total items: 37
+
+(fan the flames, cooked alive):
+avg. price=184.0        |       cheapest price=90
+total items: 24
+
+(fan the flames, wasting affliction):
+avg. price=184.9        |       cheapest price=180.0
+total items: 45
+
+(flow of life, brewed for potency):
+avg. price=185.0        |       cheapest price=100
+total items: 126
+
+(master of fire, fan the flames):
+avg. price=200.0        |       cheapest price=200
+total items: 30
+
+(flow of life, brush with death):
+avg. price=200.0        |       cheapest price=200
+total items: 40
+
+(blowback, wrapped in flame):
+avg. price=240.0        |       cheapest price=240.0
+total items: 77
+
+(master of fire, brush with death):
+avg. price=354.0        |       cheapest price=50
+total items: 10
+
+(master of fire, cooked alive):
+avg. price=430.5        |       cheapest price=95
+total items: 10
+
+(burning bright, flow of life):
+avg. price=472.0        |       cheapest price=400
+total items: 180
+
+(master of fire, flow of life):
+avg. price=474.0        |       cheapest price=120
+total items: 16
+
+(wrapped in flame, flow of life):
+avg. price=2754.0       |       cheapest price=2700.0
+total items: 45
