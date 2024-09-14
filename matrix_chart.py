@@ -8,9 +8,9 @@ class Price_type(Enum):
 
 # Adjust as needed (min and max of avg chaos price on the color scale)
 VMIN = 0
-VMAX = 200
-INPUT_FILE = 'outputs/projectile_output.txt'
-PRICE_TYPE = Price_type.AVERAGE
+VMAX = 500
+INPUT_FILE = 'outputs/cold_dot_output.txt'
+PRICE_TYPE = Price_type.LOWEST
 
 def sort_dict(d):
     """Recursively sorts a dictionary and any nested dictionaries by key."""

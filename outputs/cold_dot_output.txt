@@ -1,0 +1,263 @@
+(circling oblivion, deep chill):
+avg. price=3.1          |       cheapest price=1
+total items: 96
+
+(exposure therapy, circling oblivion):
+avg. price=3.8          |       cheapest price=1
+total items: 92
+
+(exposure therapy, brewed for potency):
+avg. price=4.4          |       cheapest price=3
+total items: 92
+
+(cold-blooded killer, brewed for potency):
+avg. price=4.6          |       cheapest price=1
+total items: 61
+
+(brewed for potency, deep chill):
+avg. price=4.8          |       cheapest price=1
+total items: 90
+
+(haemorrhage, brewed for potency):
+avg. price=5.7          |       cheapest price=1
+total items: 54
+
+(haemorrhage, circling oblivion):
+avg. price=6.0          |       cheapest price=5
+total items: 48
+
+(exposure therapy, deep chill):
+avg. price=6.0          |       cheapest price=3
+total items: 85
+
+(haemorrhage, exposure therapy):
+avg. price=6.4          |       cheapest price=2
+total items: 51
+
+(circling oblivion, brewed for potency):
+avg. price=7.3          |       cheapest price=5
+total items: 91
+
+(vile reinvigoration, brewed for potency):
+avg. price=7.5          |       cheapest price=1
+total items: 53
+
+(cold-blooded killer, exposure therapy):
+avg. price=7.6          |       cheapest price=5
+total items: 54
+
+(vile reinvigoration, circling oblivion):
+avg. price=7.7          |       cheapest price=4
+total items: 63
+
+(vile reinvigoration, deep chill):
+avg. price=7.8          |       cheapest price=3
+total items: 69
+
+(brewed for potency, blast-freeze):
+avg. price=8.0          |       cheapest price=3
+total items: 35
+
+(exposure therapy, vile reinvigoration):
+avg. price=8.1          |       cheapest price=5
+total items: 47
+
+(cold-blooded killer, deep chill):
+avg. price=8.5          |       cheapest price=3
+total items: 55
+
+(brush with death, deep chill):
+avg. price=8.6          |       cheapest price=3
+total items: 21
+
+(haemorrhage, vile reinvigoration):
+avg. price=8.8          |       cheapest price=5
+total items: 27
+
+(haemorrhage, deep chill):
+avg. price=8.8          |       cheapest price=3
+total items: 48
+
+(brush with death, brewed for potency):
+avg. price=10.5         |       cheapest price=5
+total items: 28
+
+(wasting affliction, brewed for potency):
+avg. price=10.6         |       cheapest price=4
+total items: 20
+
+(flow of life, deep chill):
+avg. price=11.1         |       cheapest price=5
+total items: 36
+
+(cold-blooded killer, circling oblivion):
+avg. price=12.0         |       cheapest price=3
+total items: 31
+
+(cold-blooded killer, vile reinvigoration):
+avg. price=12.4         |       cheapest price=2
+total items: 25
+
+(exposure therapy, brush with death):
+avg. price=12.5         |       cheapest price=5
+total items: 21
+
+(brush with death, circling oblivion):
+avg. price=12.5         |       cheapest price=5
+total items: 26
+
+(circling oblivion, blast-freeze):
+avg. price=12.9         |       cheapest price=4
+total items: 29
+
+(deep chill, blast-freeze):
+avg. price=13.5         |       cheapest price=5
+total items: 22
+
+(wasting affliction, exposure therapy):
+avg. price=15.5         |       cheapest price=5
+total items: 27
+
+(exposure therapy, blast-freeze):
+avg. price=16.5         |       cheapest price=5
+total items: 19
+
+(wasting affliction, deep chill):
+avg. price=17.0         |       cheapest price=5
+total items: 15
+
+(cold-blooded killer, haemorrhage):
+avg. price=18.6         |       cheapest price=7
+total items: 29
+
+(flow of life, exposure therapy):
+avg. price=18.7         |       cheapest price=7
+total items: 23
+
+(haemorrhage, blast-freeze):
+avg. price=20.4         |       cheapest price=9
+total items: 18
+
+(wasting affliction, circling oblivion):
+avg. price=22.6         |       cheapest price=10
+total items: 36
+
+(flow of life, vile reinvigoration):
+avg. price=24.3         |       cheapest price=8
+total items: 16
+
+(cold-blooded killer, brush with death):
+avg. price=25.9         |       cheapest price=10
+total items: 13
+
+(haemorrhage, flow of life):
+avg. price=40.3         |       cheapest price=8
+total items: 12
+
+(chilling presence, deep chill):
+avg. price=41.0         |       cheapest price=10
+total items: 15
+
+(circling oblivion, chilling presence):
+avg. price=42.7         |       cheapest price=12
+total items: 12
+
+(wasting affliction, vile reinvigoration):
+avg. price=43.8         |       cheapest price=10
+total items: 14
+
+(haemorrhage, brush with death):
+avg. price=43.8         |       cheapest price=3
+total items: 10
+
+(cold-blooded killer, flow of life):
+avg. price=48.5         |       cheapest price=20
+total items: 14
+
+(flow of life, blast-freeze):
+avg. price=50.5         |       cheapest price=5
+total items: 8
+
+(wasting affliction, blast-freeze):
+avg. price=50.6         |       cheapest price=5
+total items: 8
+
+(brewed for potency, chilling presence):
+avg. price=53.0         |       cheapest price=15
+total items: 10
+
+(cold-blooded killer, blast-freeze):
+avg. price=60.8         |       cheapest price=5
+total items: 9
+
+(brush with death, vile reinvigoration):
+avg. price=61.8         |       cheapest price=20
+total items: 8
+
+(exposure therapy, chilling presence):
+avg. price=63.0         |       cheapest price=25
+total items: 6
+
+(cold-blooded killer, wasting affliction):
+avg. price=63.5         |       cheapest price=10
+total items: 11
+
+(brush with death, blast-freeze):
+avg. price=69.4         |       cheapest price=10
+total items: 8
+
+(haemorrhage, chilling presence):
+avg. price=75.0         |       cheapest price=5
+total items: 5
+
+(cold-blooded killer, chilling presence):
+avg. price=81.8         |       cheapest price=29
+total items: 5
+
+(flow of life, brewed for potency):
+avg. price=81.8         |       cheapest price=30
+total items: 21
+
+(flow of life, circling oblivion):
+avg. price=93.0         |       cheapest price=30
+total items: 13
+
+(brush with death, chilling presence):
+avg. price=110.0        |       cheapest price=110
+total items: 1
+
+(wasting affliction, brush with death):
+avg. price=110.1        |       cheapest price=35
+total items: 7
+
+(wasting affliction, flow of life):
+avg. price=115.0        |       cheapest price=15
+total items: 5
+
+(vile reinvigoration, blast-freeze):
+avg. price=123.8        |       cheapest price=5
+total items: 8
+
+(wasting affliction, haemorrhage):
+avg. price=132.4        |       cheapest price=7
+total items: 7
+
+(wasting affliction, chilling presence):
+avg. price=158.3        |       cheapest price=35
+total items: 3
+
+(vile reinvigoration, chilling presence):
+avg. price=295.0        |       cheapest price=40
+total items: 2
+
+(flow of life, brush with death):
+avg. price=550.0        |       cheapest price=440
+total items: 3
+
+(flow of life, chilling presence):
+avg. price=2750.0       |       cheapest price=2750
+total items: 1
+
+(chilling presence, blast-freeze):
+avg. price=0            |       cheapest price=0
+total items: 0

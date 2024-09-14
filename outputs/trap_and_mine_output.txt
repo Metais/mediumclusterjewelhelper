@@ -1,0 +1,83 @@
+(set and forget, guerilla tactics):
+avg. price=9.3          |       cheapest price=4
+total items: 283
+
+(set and forget, expendability):
+avg. price=9.3          |       cheapest price=5
+total items: 51
+
+(set and forget, expert sabotage):
+avg. price=9.4          |       cheapest price=5
+total items: 130
+
+(set and forget, surprise sabotage):
+avg. price=10.0         |       cheapest price=10
+total items: 137
+
+(set and forget, arcane pyrotechnics):
+avg. price=11.9         |       cheapest price=9
+total items: 58
+
+(guerilla tactics, expendability):
+avg. price=12.0         |       cheapest price=10
+total items: 103
+
+(expert sabotage, careful handling):
+avg. price=12.3         |       cheapest price=10
+total items: 65
+
+(expert sabotage, surprise sabotage):
+avg. price=12.8         |       cheapest price=9
+total items: 183
+
+(set and forget, careful handling):
+avg. price=13.2         |       cheapest price=8
+total items: 43
+
+(guerilla tactics, arcane pyrotechnics):
+avg. price=14.2         |       cheapest price=6
+total items: 110
+
+(expendability, surprise sabotage):
+avg. price=14.6         |       cheapest price=10
+total items: 66
+
+(arcane pyrotechnics, careful handling):
+avg. price=14.9         |       cheapest price=5
+total items: 25
+
+(expert sabotage, arcane pyrotechnics):
+avg. price=15.5         |       cheapest price=5
+total items: 67
+
+(arcane pyrotechnics, surprise sabotage):
+avg. price=15.5         |       cheapest price=10
+total items: 71
+
+(expert sabotage, expendability):
+avg. price=16.1         |       cheapest price=10
+total items: 75
+
+(surprise sabotage, careful handling):
+avg. price=16.6         |       cheapest price=10
+total items: 78
+
+(expendability, careful handling):
+avg. price=20.0         |       cheapest price=10
+total items: 29
+
+(expendability, arcane pyrotechnics):
+avg. price=27.3         |       cheapest price=15
+total items: 18
+
+(expert sabotage, guerilla tactics):
+avg. price=28.0         |       cheapest price=20
+total items: 614
+
+(guerilla tactics, careful handling):
+avg. price=50.5         |       cheapest price=40
+total items: 149
+
+(guerilla tactics, surprise sabotage):
+avg. price=74.8         |       cheapest price=74
+total items: 1367
